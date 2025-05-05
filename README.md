@@ -15,14 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<h1 align="center" >Hi 👋, I'm Esraa Ahmed  ➤  👩‍💻 </h1>
 
- <img src="banner.png" alt="banner" /> 
 
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Esraa Ahmed  ➤  👨‍💻🌐
 
-<h3 align="center"><em><b>Frontend Web Developer</b></em></h3>
+
+
 
 ## 🎀 About Me:
+<h3 align="center"><em><b>Frontend Web Developer</b></em></h3> <br>
 🔭 I’m currently an intern at the ITI Cairo University branch.<br/>
 👩🏻‍🎓 Computer Science Fresh Graduate<br/>
 🌱 I’m currently learning **React**<br/>
@@ -41,7 +42,7 @@ Here are some ideas to get you started:
 # 💻 Tech Stack:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,sass,bootstrap,jquery,git,github,vercel,npm,figma,c,cpp,py,notion&perline=10" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,sass,bootstrap,jquery,git,github,vercel,npm,figma,c,cpp,java" />
   </a>
 </p>
 
