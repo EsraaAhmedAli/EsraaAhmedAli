@@ -11,7 +11,7 @@
 ## 🎀 About Me:
 - 🔭 I’m currently an intern at the **ITI - Cairo University branch**  
 - 👩🏻‍🎓 Computer Science Fresh Graduate from Menoufia University  
-- 🌱 I’m currently learning **React & React Native**  
+- 🌱 I’m currently learning **React & Angular**  
 - 💬 Ask me about **Web Development, Firebase, and Frontend Frameworks**  
 - 📫 Reach me at: **esraaahmed.career@gmail.com**  
 - 📄 [View My Resume](https://drive.google.com/drive/u/0/folders/13LhmcQJoyMSrOqPi4e6COzHQwQ0MIRg_)
